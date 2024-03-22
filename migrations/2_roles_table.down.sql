@@ -1,3 +1,0 @@
-DELETE FROM roles;
-
-DROP TABLE roles;

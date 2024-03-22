@@ -1,4 +1,0 @@
-CREATE TABLE "roles" (
-    name VARCHAR(255) PRIMARY KEY NOT NULL,
-    visible_name VARCHAR(255) NOT NULL
-);
